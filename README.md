@@ -3,12 +3,12 @@
 ## Introduction
 QKULDA(Q-Kernel Optimized UMAP Linear Discriminant Analysis)는 고차원 데이터의 분류 성능을 극대화하기 위해 새롭게 제안된 방법론입니다. 기존 LDA의 한계를 극복하기 위해 Kernel LDA와 UMAP을 결합하고, Q 최적화를 통해 커널 파라미터를 최적화하여 정확도를 향상시킵니다.
 
-### 주요 특징
+**주요 특징**
 - **Kernel LDA 도입**: 비선형 데이터도 효과적으로 분류 가능
 - **Q 최적화**: 커널 함수 파라미터 최적화를 통해 등분산성 가정 완화 및 클래스 간 분리 극대화
 - **UMAP 통합**: 고차원 데이터의 차원 축소로 계산 효율성 증대
 
-### 실행 과정
+**실행 과정**
 1. **Google Drive 마운트 및 데이터 로드**
    - Google Drive를 마운트하여 데이터 파일을 불러옵니다.
 2. **데이터 표준화 및 UMAP 차원 축소**
