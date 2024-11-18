@@ -1,7 +1,5 @@
 # QKULDA(Q-Kernel Optimized UMAP Linear Discriminant Analysis)
-For detailed information about this project, you can refer to the project report:
-
-[📄 QKULDA Project Report](https://github.com/yejinyeo/QKULDA-Q-Kernel-Optimized-UMAP-Linear-Discriminant-Analysis-/blob/main/QKULDA%20A%20New%20Methodology%20for%20High-Dimensional%20Data.pdf)
+For detailed information about this project, you can refer to the project report: [📄 QKULDA Project Report](https://github.com/yejinyeo/QKULDA-Q-Kernel-Optimized-UMAP-Linear-Discriminant-Analysis-/blob/main/QKULDA%20A%20New%20Methodology%20for%20High-Dimensional%20Data.pdf)
 
 ## Introduction
 QKULDA(Q-Kernel Optimized UMAP Linear Discriminant Analysis)는 고차원 데이터의 분류 성능을 극대화하기 위해 새롭게 제안된 방법론입니다. 기존 LDA의 한계를 극복하기 위해 Kernel LDA와 UMAP을 결합하고, Q 최적화를 통해 커널 파라미터를 최적화하여 정확도를 향상시킵니다.
